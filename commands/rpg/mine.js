@@ -10,7 +10,7 @@ class mineCommand extends commando.Command {
             description: 'Mines ore',
             throttling: {
                 usages: 1,
-                duration: 15
+                duration: 30
             }
         });
     }

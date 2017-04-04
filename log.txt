@@ -29,3 +29,5 @@ V1.3
 |Legendary Pickaxe
 |25% -> 65%  
 ADDED Roles For Titles (no use yet)
+Increased Time Usage on Mine Command From
+15 -> 30
