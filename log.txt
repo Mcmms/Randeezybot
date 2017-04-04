@@ -1,0 +1,31 @@
+V1.0
+Added dice_roll for giggles
+Added Jokes / Roast
+Added Invite and Stats
+Added Mute and Unmute with correct permissions
+V1.1
+Added league of legends Solo/Duo Rank
+Added 8ball command to lilhomie
+Added Kick function with correct permissions
+Added riprandeezy.mp4 with Randeezy's Roast
+V1.2
+Added leveling system.
+Added Mining and ores. (Need to Add Objects for the ores.)
+Added Give function to bot <3
+Added Leaderboard
+Added Buy and Shop :)
+Added Pickaxes Percentage
+|Wood -> No Change
+|Stone -> 5% Increase points
+|Iron  -> 10% Increase points
+|Diamond -> 15% Increase points
+|Legendary -> 25% Increase points
+Lowered Stone Pickaxe Price to 1k From 2k
+V1.3
+|Iron Pickaxe
+|10% -> 25%
+|Diamond Pickaxe
+|15% -> 40%
+|Legendary Pickaxe
+|25% -> 65%  
+ADDED Roles For Titles (no use yet)
